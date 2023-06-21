@@ -21,10 +21,12 @@ To resolve this issue:
 	Commit changes using this command: git commit -m "some message"
 
 ## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+1. To complete the course, you must have the following installed:
+	- SQL Server Management Studio (SSMS) [https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16]
+	- Microsoft® SQL Server® 2017 Express [https://www.microsoft.com/en-us/download/details.aspx?id=55994]
+	- Microsoft Excel or Google Sheets
+	
+2. Fork the repository to store your exercise files and notes.
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
