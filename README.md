@@ -1,4 +1,4 @@
-# DEPRICIATED-USE NEW REPO…Top 5 Things to Know in Advanced SQL
+# Top 5 Things to Know in Advanced SQL
 This is the repository for the LinkedIn Learning course Top 5 Things to Know in Advanced SQL. The full course is available from [LinkedIn Learning][lil-course-url].
 
 _See the readme file in the main branch for updated instructions and information._
