@@ -26,7 +26,7 @@ To resolve this issue:
 	- Microsoft® SQL Server® 2017 Express [https://www.microsoft.com/en-us/download/details.aspx?id=55994]
 	- Microsoft Excel or Google Sheets
 	
-2. Fork the repository to store your exercise files and notes.
+2. Fork the repository to store your exercise files and notes. 
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
